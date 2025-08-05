@@ -37,7 +37,7 @@ It fetches data in real-time from a free Dictionary API, with a clean and modern
 
 **Farzan Gulzar**  
 📧 Email: [farzangulzar7@gmail.com](mailto:farzangulzar7@gmail.com)  
-📸 Instagram: [@farzan_gulzar_](https://instagram.com/farzan_gulzar_)
+📸 Instagram: [@farzan__gulzar](https://instagram.com/farzan__gulzar)
 
 ---
 
